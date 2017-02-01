@@ -1,9 +1,13 @@
-# about-me
+## about-me
 
-Chris Cook was born in Springville, New York in 1998. He grew up in a small town called Gowanda. Chris lived here most of his childhood life. He attended Gowanda High School and graduated in 2016.
+Christopher Cook
 
-During His years in high school, Chris worked for a company called Superior Contracting. He started working under Superior when he was 16 years old. He was mostly responsible for finishing wood work and cleaning. He worked under his step father and learned a great amount over the years.
+TL;DR: My name is Chris Cook and I am going to major in computer science at Allegheny College. Ever since I first heard about software and programming, I have always wanted to make a career out of it.
 
-Aside from working, Chris has also taken many courses to prepare him for college. One course that stands out the most is the computer science introductory course he took. He learned all about the basics of computer science and how it is changing the world. After taking this course Chris decided to major in computer science. This course also helped him decide what college to attend.
+I was born in Springville, New York in 1998. I grew up in a small town called Gowanda. I lived there most of my childhood life. I attended Gowanda High School and graduated in 2016.
 
-Chris would attend Allegheny College, located in Meadville, Pa. Chris decided to come here for one reason only and that was because of their computer science program. He was interested in the courses that Allegheny had to offer in the computer science field. During his time at Allegheny, Chris hopes to learn as much as he can about software. Chris wishes to gain as much knowledge as he can because he wants to pursue a career that has to deal with software.
+During my years in high school, I worked for a company called Superior Contracting. I started working under Superior when I was 16 years old. I was mostly responsible for finishing wood work and cleaning. I worked under my step father and learned a great amount over the years.
+
+While growing up, technology was constantly an interest of mine. I had always wondered how they made computers faster. When I first heard about programming and how important it was to society, I wanted to get more involved with it. I would also always keep myself up to date with the newest software Microsoft came out with. Microsoft has some of the best programmers in the world and I would do anything to be apart of it. One of the first steps I took to prepare myself for a career in programming is taking courses in high school that dealt with programming. One course that has helped me the most so far is the computer science introductory course I took. I learned all about the basics of computer science and how it is changing the world. After taking this course I decided I wanted to major in computer science. This course also helped me decide what college to attend.
+
+I decided to attend Allegheny College, located in Meadville, Pa. I choose to come here because I thought Allegheny was going to give me the best education. I was also interested in the courses that Allegheny had to offer in the computer science field. During my time at Allegheny, I hope to learn as much as I can about software. I wish to gain as much knowledge as I can because I want to pursue a career that has to deal with software.
